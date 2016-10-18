@@ -1,0 +1,10 @@
+C:\Users\marko\documents\visual studio 2015\Projects\GameOfLife\GameOfLife\bin\Release\GameOfLife.exe.config
+C:\Users\marko\documents\visual studio 2015\Projects\GameOfLife\GameOfLife\obj\Release\GameOfLife.csprojResolveAssemblyReference.cache
+C:\Users\marko\documents\visual studio 2015\Projects\GameOfLife\GameOfLife\obj\Release\GameOfLife.About.resources
+C:\Users\marko\documents\visual studio 2015\Projects\GameOfLife\GameOfLife\obj\Release\GameOfLife.Form1.resources
+C:\Users\marko\documents\visual studio 2015\Projects\GameOfLife\GameOfLife\obj\Release\GameOfLife.Properties.Resources.resources
+C:\Users\marko\documents\visual studio 2015\Projects\GameOfLife\GameOfLife\obj\Release\GameOfLife.csproj.GenerateResource.Cache
+C:\Users\marko\documents\visual studio 2015\Projects\GameOfLife\GameOfLife\bin\Release\GameOfLife.exe
+C:\Users\marko\documents\visual studio 2015\Projects\GameOfLife\GameOfLife\bin\Release\GameOfLife.pdb
+C:\Users\marko\documents\visual studio 2015\Projects\GameOfLife\GameOfLife\obj\Release\GameOfLife.exe
+C:\Users\marko\documents\visual studio 2015\Projects\GameOfLife\GameOfLife\obj\Release\GameOfLife.pdb
